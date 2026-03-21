@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Assets gerados (regenerados pelo gen_charts.py)
+assets/
+
+# Sistema
+.DS_Store
+Thumbs.db
